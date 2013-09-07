@@ -13,6 +13,7 @@ Contact:
 Publications:
 ============
 
+%bibliography%
 
 [Github Profile]: https://github.com/liob
 [BitBucket Profile]: https://bitbucket.org/hbwinther
