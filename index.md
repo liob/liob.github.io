@@ -1,6 +1,6 @@
 % no Title
 % H. B. Winther
-% 6. Sept. 2013
+% %date%
 
 Contact:
 =======

@@ -1,4 +1,5 @@
 PANDOC = pandoc
+LASTEDIT = $(shell date +"%e. %h. %Y")
 
 .PHONY: index.html bibliography.xml
 
@@ -10,6 +11,8 @@ bib: bibliography.xml
 
 index.html: bibliography.xml
 	$(PANDOC) -s index.md --template=template.html --email-obfuscation=references -o index.html
+	sed -e 's/%date%/$(LASTEDIT)/' < index.html > index_tmp.html
+	mv index_tmp.html index.html
 	xmllint --xpath '/div' bibliography.xml > tmp.xml
 	sed -e '/%bibliography%/r tmp.xml' -e '/%bibliography%/d' < index.html > index_tmp.html
 	mv index_tmp.html index.html
