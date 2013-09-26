@@ -19,7 +19,7 @@ index.html: bibliography.xml
 	rm -f tmp.xml 
 
 bibliography.xml:
-	curl --silent ""https://api.zotero.org/groups/206974/items?format=bib"" > bibliography.xml
+	curl --silent ""https://api.zotero.org/groups/206974/items?format=bib\&style=journal-of-medical-internet-research"" > bibliography.xml
 
 clean:
 	rm -f bibliography.xml
