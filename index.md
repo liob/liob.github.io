@@ -6,6 +6,7 @@ Contact:
 =======
 
  -  EMail: [hbwinther@metalabs.de](mailto:hbwinther@metalabs.de)
+ -  Twitter: [@hbwinther](https://twitter.com/hbwinther)
  -  Github: [Github Profile]
  -  BitBucket: [BitBucket Profile]
 
