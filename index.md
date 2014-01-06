@@ -1,14 +1,16 @@
 % no Title
-% H. B. Winther
+% Hinrich B. Winther
 % %date%
 
 Contact:
 =======
 
  -  EMail: [hbwinther@metalabs.de](mailto:hbwinther@metalabs.de)
+ -  Facebook: [facebook.com/hbwinther](https://www.facebook.com/hbwinther)
+ -  Linkedin: [Hinrich B. Winther](http://www.linkedin.com/profile/view?id=311528174)
  -  Twitter: [@hbwinther](https://twitter.com/hbwinther)
- -  Github: [Github Profile]
- -  BitBucket: [BitBucket Profile]
+ -  Github: [github.com/liob](https://github.com/liob)
+ -  BitBucket: [bitbucket.org/hbwinther](https://bitbucket.org/hbwinther)
 
 Projects:
 ========
@@ -26,6 +28,3 @@ Publications:
 ============
 
 %bibliography%
-
-[Github Profile]: https://github.com/liob
-[BitBucket Profile]: https://bitbucket.org/hbwinther
