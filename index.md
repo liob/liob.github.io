@@ -7,7 +7,7 @@ Contact:
 
  -  EMail: [hbwinther@metalabs.de](mailto:hbwinther@metalabs.de)
  -  Facebook: [facebook.com/hbwinther](https://www.facebook.com/hbwinther)
- -  Linkedin: [Hinrich B. Winther](http://www.linkedin.com/profile/view?id=311528174)
+ -  Linkedin: [Hinrich B. Winther](http://www.linkedin.com/in/hbwinther)
  -  Twitter: [@hbwinther](https://twitter.com/hbwinther)
  -  Github: [github.com/liob](https://github.com/liob)
  -  BitBucket: [bitbucket.org/hbwinther](https://bitbucket.org/hbwinther)
